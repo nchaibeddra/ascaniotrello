@@ -1,0 +1,20 @@
+{
+  "AddCol": {
+    "description": "Auto imported from components/AddCol.vue"
+  },
+  "AddSticker": {
+    "description": "Auto imported from components/AddSticker.vue"
+  },
+  "ConfDialog": {
+    "description": "Auto imported from components/ConfDialog.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "ModifStickerDialog": {
+    "description": "Auto imported from components/ModifStickerDialog.vue"
+  },
+  "ModifyColName": {
+    "description": "Auto imported from components/ModifyColName.vue"
+  }
+}
